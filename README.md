@@ -1,4 +1,4 @@
-# 👋 Hi, This is Ethan
+# 👋 Hi, This is Magneto!
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="400"/>
@@ -6,9 +6,9 @@
 
 ### 👨‍💻 About him:
 
-Ethan loves to solve problems and builds things that people use. He prides himself on his ability to objectify the subjective and identify the route to success on a project, and then boldly goes forth on that route. He has been developing websites and web applications for over 6 years. He constantly focuses on building systems and products that convert and retain users and are easy and intuitive to use. He has built love crafting unique solutions to unique problems. Unlike a lot of developers, he’s friendly, empathetic, and wants to understand your overall business strategy for the project. The more you communicate, the better job he can do for you as a customer.
+He loves to solve problems and builds things that people use. He prides himself on his ability to objectify the subjective and identify the route to success on a project, and then boldly goes forth on that route. He has been developing websites and web applications for over 6 years. He constantly focuses on building systems and products that convert and retain users and are easy and intuitive to use. He has built love crafting unique solutions to unique problems. Unlike a lot of developers, he’s friendly, empathetic, and wants to understand your overall business strategy for the project. The more you communicate, the better job he can do for you as a customer.
 
-***Please visit my [personal website](https://magnetfolio.netlify.app/) to learn more about me!***
+***Please visit his [personal website](https://magnetfolio.netlify.app/) to learn more about him!***
 
 ### 🛠️ Languages and Tools:
 
